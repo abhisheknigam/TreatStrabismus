@@ -1,0 +1,2 @@
+C:\Users\Harsh Patel\Documents\Unity Games\Old\AmblyoCare\Temp\UnityVS_obj\Debug\AmblyoCare.csprojResolveAssemblyReference.cache
+C:\Users\Harsh Patel\Documents\Unity Games\Old\AmblyoCare\Temp\UnityVS_obj\Debug\AmblyoCare.csproj.CoreCompileInputs.cache

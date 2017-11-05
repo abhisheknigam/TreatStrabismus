@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 33b190eff61c71f4fa8abe520addc8fc
+timeCreated: 1493781212
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chicken_Head
+    21300002: Chicken_Body
+    21300004: Chicken_Left Eye
+    21300006: Chicken_Right Eye
+    21300008: Chicken_Left Wing
+    21300010: Chicken_Right Wing
+    21300012: Chicken_Head Comb
+    21300014: Chicken_Beak Comb
+    21300016: Chicken_Left Eyelid
+    21300018: Chicken_Right Eyelid
+    21300020: Chicken_Left Food
+    21300022: Chicken_Right Foot
+    21300024: Chicken_Beak
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Chicken_Head
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 914
+        width: 544
+        height: 469
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Body
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 875
+        width: 541
+        height: 520
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Left Eye
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 586
+        width: 166
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Right Eye
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 582
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Left Wing
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 607
+        width: 172
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Right Wing
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 609
+        width: 170
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Head Comb
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 429
+        width: 216
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Beak Comb
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 45
+        width: 93
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Left Eyelid
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 344
+        width: 184
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Right Eyelid
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 344
+        width: 191
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Left Food
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 39
+        width: 133
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Right Foot
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 39
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken_Beak
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 58
+        width: 153
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
